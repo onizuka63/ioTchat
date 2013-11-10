@@ -1,0 +1,10 @@
+{
+    "name": "tchat",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~3.3.4",
+        "socket.io": "~0.9.16"
+    },
+    "author": "onizuka63",
+    "description": "Node.js and socket.io testings"
+}
